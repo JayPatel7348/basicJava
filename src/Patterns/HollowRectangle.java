@@ -1,4 +1,4 @@
-package Loops;
+package Patterns;
 
 public class HollowRectangle {
 
